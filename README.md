@@ -7,4 +7,5 @@ In recent years, City Hotel and Resort Hotel have seen some high cancellation ra
 # Links
 
 Tableau Dashboard - created a dashboard in Tableau summarizing the data.
+https://github.com/Uzeyir36375/hotel-booking-analysis/blob/ea10e97b952f5a39a1727a53cc6755824437b702/README.md
 
